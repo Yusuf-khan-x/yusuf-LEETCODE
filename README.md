@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2235-add-two-integers](https://github.com/Yusuf-khan-x/yusuf-LEETCODE/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Yusuf-khan-x/yusuf-LEETCODE/tree/master/2413-smallest-even-multiple) |
 ## Number Theory
 |  |
