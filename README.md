@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Yusuf-khan-x/yusuf-LEETCODE/tree/master/0066-plus-one) |
 | [2235-add-two-integers](https://github.com/Yusuf-khan-x/yusuf-LEETCODE/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Yusuf-khan-x/yusuf-LEETCODE/tree/master/2413-smallest-even-multiple) |
 ## Number Theory
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Yusuf-khan-x/yusuf-LEETCODE/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/Yusuf-khan-x/yusuf-LEETCODE/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
